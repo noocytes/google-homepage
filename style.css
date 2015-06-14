@@ -1,0 +1,82 @@
+#container {
+
+}
+
+img {
+	width:269px;
+}
+
+#searchBox {
+	border:1px solid #222;
+	border-radius:0px;
+	position:relative;
+	width:550px;
+	padding:5px 10px 5px 10px;
+}
+
+#buttons {
+	margin-top:20px;
+}
+
+#googleSearch, #lucky {
+	border-radius:1px;
+	font-family:arial;
+	font-weight:bold;
+	font-size:11px;
+	min-width:54px;
+	text-align:center;
+	border:1px solid rgba(0, 0, 0, 0.1);
+	background-color:#F5F5F5;
+	padding:0px 8px;
+	height:29px;
+	margin:11px 8px;
+}
+
+#header {
+	width:100%;
+}
+
+#header ul li {
+	display:inline;
+	float:right;
+	font-size:13px;
+	margin-left:20px;
+	font-family:arial;
+}
+#center {
+	margin-top:160px;
+}
+
+#footer {
+	background-color:#F5F5F5;
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	border-top:1px solid #e4e4e4;
+	color:#666;
+	line-height:7px;
+}
+
+#footer ul li {
+	display:inline;
+	font-family:arial;
+	font-size:13px;
+}
+
+#footLeft {
+	float:left;
+}
+
+#footRight {
+	float:right;
+	margin-right:40px;
+}
+
+.footRight {
+	margin-left:20px;
+}
+
+.footLeft {
+	margin-right:20px;
+}
